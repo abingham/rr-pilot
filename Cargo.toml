@@ -1,0 +1,13 @@
+[package]
+name = "rr-pilot"
+version = "0.1.0"
+authors = ["Austin Bingham <austin.bingham@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nalgebra = "0.19"
+num = "0.2.1"
+rocket="0.4"
+rocket_contrib="0.4"
+serde="1.0"
+serde_derive="1.0"
